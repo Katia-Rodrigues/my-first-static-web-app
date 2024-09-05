@@ -12,5 +12,5 @@ This repo has a dev container. This means if you open it inside a [GitHub Codesp
 
 [Link2 Tutorial WebApps](https://learn.microsoft.com/pt-pt/azure/static-web-apps/getting-started?tabs=vanilla-javascript)
 
-[Link3 Tutorial Blobs]https://learn.microsoft.com/pt-br/azure/storage/blobs/storage-blob-static-website-host
+[Link3 Tutorial Blobs](https://learn.microsoft.com/pt-br/azure/storage/blobs/storage-blob-static-website-host)(https://learn.microsoft.com/pt-br/azure/storage/blobs/storage-blob-static-website-how-to?tabs=azure-portal#portal-find-url)
 
